@@ -6,4 +6,5 @@ console.log(abcd)
 
 console.log(hjk)
 
+console. log(5678)
 
